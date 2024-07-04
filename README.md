@@ -1,2 +1,2 @@
 # test-estrategias-db
-## Saludosa todos!
+## Saludos a todos!
